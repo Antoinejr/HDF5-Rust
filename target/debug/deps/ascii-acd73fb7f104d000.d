@@ -1,0 +1,9 @@
+C:\Users\Anthony Irokosu\design-project-m11\target\debug\deps\libascii-acd73fb7f104d000.rmeta: C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\lib.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_char.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_str.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_string.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\free_functions.rs
+
+C:\Users\Anthony Irokosu\design-project-m11\target\debug\deps\ascii-acd73fb7f104d000.d: C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\lib.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_char.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_str.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_string.rs C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\free_functions.rs
+
+C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\lib.rs:
+C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_char.rs:
+C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_str.rs:
+C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\ascii_string.rs:
+C:\Users\Anthony\ Irokosu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ascii-1.1.0\src\free_functions.rs:
